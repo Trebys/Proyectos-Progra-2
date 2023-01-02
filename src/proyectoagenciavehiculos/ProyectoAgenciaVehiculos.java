@@ -14,6 +14,8 @@ public class ProyectoAgenciaVehiculos {
         // Creacion de objeto ventana para usar la clase de interfaz grafica
        interfazGrafica Ventana = new interfazGrafica();
        Ventana.setVisible(true);
+        
+        System.out.print("Prueba cambio");
        
        
        //Creacion de variables, Scanner etc para la clase archivo clientes
