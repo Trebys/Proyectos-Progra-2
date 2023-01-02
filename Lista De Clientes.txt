@@ -1,0 +1,6 @@
+Ruben ;Rojas;Mora;712380573;Español;71638493;rubenrm@gmail.com;Paraiso,Oreamuno;
+Maria;Rojas;Carranza;234579203;Costarricense;71262788;mariarc@gmail.com;Cartago,Tres Rios;
+Miguel;Calvo;Ramirez ;312874792;Costarricense;67123459;MigueCR@gmail.com;San Jose, Tibas;
+Ruth;Esquivel;Aguirre;214759402;Costarricense;93084722;RuthEA22@gmail.com;Cartago,Tres Rios;
+Esteban ;Lopez;Campos;118360387;Costarricense;89088977;estelopez2014@gmail.com;San Rafael, Oreamuno;
+Esteban;Lopez;Campos;118360387;Costarricense;89088977;estelopez2014@gmail.com;San Rafaél, Oreamuno;

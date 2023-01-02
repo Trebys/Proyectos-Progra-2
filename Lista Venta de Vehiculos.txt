@@ -1,0 +1,7 @@
+71638493;MGR-103;Toyota;2000;Sedan;1600;Diesel;Manual;4;Gris
+712380573;JFI-241;Nissan;2011;Pickup;1700;Electrico;Automatico;5;Verde
+234579203;AWC-655;Toyota;2007;4x4;3300;Diesel;Manual;5;Blanco
+312874792;KIR-986;BMW;2021;Deportivo;4000;Super;Automatico;2;Rojo
+214759402;LOL-231;Ferrari;2014;Deportivo;3500;Super;Manual;2;Azul
+118360387;AKA-202;Toyota;2010;4X4;2000;Super;Manual;5;Verde
+118360387;MVN-123;Toyota;2012;4X4;3500;Diesel;Automatico;5;Gris
