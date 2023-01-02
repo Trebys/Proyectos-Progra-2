@@ -17,7 +17,7 @@ public class ProyectoAgenciaVehiculos {
         
         System.out.print("Prueba cambio");
        
-       
+          System.out.println("Prueba cambio desde netbeans");    
        //Creacion de variables, Scanner etc para la clase archivo clientes
        
 
